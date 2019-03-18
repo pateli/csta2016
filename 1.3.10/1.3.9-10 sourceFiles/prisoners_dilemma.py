@@ -361,7 +361,7 @@ def copy_template():
 def post_to_api():
     pass
 
-def post_to_local_html():
+def post_to_local_html():   
     pass
     
 def post_to_file(string, filename='tournament.txt', directory=''):
